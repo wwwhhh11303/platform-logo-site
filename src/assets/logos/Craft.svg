@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Craft" data-semantics="annotation-label-pencil-down-left">
+  <path d="M4 4h5v2H6v3H4V4z M15 4h5v5h-2V6h-3V4z M4 15h2v3h3v2H4v-5z M15 18h3v-3h2v5h-5v-2z" fill="#315EFE"/>
+  <g transform="rotate(135 11 12)">
+    <path d="M7 10h8v4H7z" fill="#315EFE"/>
+    <path d="M15 10l3 2-3 2z" fill="#00D3ED"/>
+  </g>
+</svg>
